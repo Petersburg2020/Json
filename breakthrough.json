@@ -1,0 +1,49 @@
+{
+	"type": "Book", 
+	"title": "Breakthrough From Despair", 
+	"author": "Uareime P. E.", 
+	"summary": "", 
+	"serial-number": "85n1WDr6", 
+	"date-of-publication": "26 Dec 2022", 
+	"pages": [
+		{
+			"step": 0, 
+			"encode": "Page", 
+			"number": 1, 
+			"top-heading": {
+				"step": 0, 
+				"encode": "Heading", 
+				"tag": "element-heading", 
+				"heading": "TABLE OF CONTENT", 
+				"body": {
+				}
+			}, 
+			"body": {
+				"step": 0, 
+				"encode": "Body", 
+				"element-size": 1, 
+				"elements": [
+					{
+						"step": 0, 
+						"encode": "List", 
+						"item-count": 9, 
+						"tag": "list", 
+						"items": [
+							"i. Dedication", 
+							"ii. Preface", 
+							"iii. Acknowledgement", 
+							"1. Introduction", 
+							"2. A New Dawn", 
+							"3. Behind The Blue Veil", 
+							"4. Into the Shackles of Shame", 
+							"5. At Last a Smile", 
+							"6. Welcome to Peace Kingdom"
+						], 
+						"body": {
+						}
+					}
+				]
+			}
+		}
+	]
+}
