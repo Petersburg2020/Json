@@ -22,7 +22,6 @@ test {
     useJUnitPlatform()
 }
 
-
 afterEvaluate {
     publishing {
         publications {
