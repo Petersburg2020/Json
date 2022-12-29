@@ -63,6 +63,6 @@ N.B: Objects can be any of these:
 
 N.B: JsonElement is the superclass of JsonObject & JsonArray
 
-The full entation will soon be released. 
+The full documentation will soon be released. 
 
 Stay tuned!
